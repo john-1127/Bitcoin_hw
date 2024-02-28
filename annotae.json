@@ -1,0 +1,118 @@
+{
+    "1.mp4": [
+        {
+            "start_frame": "54",
+            "end_frame": "55",
+            "action_type": "click",
+            "down_coordinate": [
+                7.117117117117117,
+                5.166666666666667
+            ],
+            "up_coordinate": [
+                7.117117117117117,
+                5.166666666666667
+            ],
+            "type_word": null
+        },
+        {
+            "start_frame": "130",
+            "end_frame": "133",
+            "action_type": "click",
+            "down_coordinate": [
+                31.8018018018018,
+                54.16666666666667
+            ],
+            "up_coordinate": [
+                31.8018018018018,
+                54.16666666666667
+            ],
+            "type_word": null
+        },
+        {
+            "start_frame": "210",
+            "end_frame": "211",
+            "action_type": "click",
+            "down_coordinate": [
+                44.95495495495495,
+                88.16666666666667
+            ],
+            "up_coordinate": [
+                44.95495495495495,
+                88.16666666666667
+            ],
+            "type_word": null
+        },
+        {
+            "start_frame": "260",
+            "end_frame": "302",
+            "action_type": "type",
+            "down_coordinate": [
+                40.450450450450454,
+                52.749999999999986
+            ],
+            "up_coordinate": [
+                40.450450450450454,
+                52.749999999999986
+            ],
+            "type_word": "Qwer"
+        }
+    ],
+    "2.mp4": [
+        {
+            "start_frame": "25",
+            "end_frame": "27",
+            "action_type": "click",
+            "down_coordinate": [
+                83.51351351351352,
+                47.583333333333336
+            ],
+            "up_coordinate": [
+                83.51351351351352,
+                47.583333333333336
+            ],
+            "type_word": null
+        },
+        {
+            "start_frame": "80",
+            "end_frame": "81",
+            "action_type": "click",
+            "down_coordinate": [
+                31.981981981981985,
+                48.91666666666666
+            ],
+            "up_coordinate": [
+                31.981981981981985,
+                48.91666666666666
+            ],
+            "type_word": null
+        },
+        {
+            "start_frame": "123",
+            "end_frame": "124",
+            "action_type": "click",
+            "down_coordinate": [
+                31.081081081081084,
+                43.666666666666664
+            ],
+            "up_coordinate": [
+                31.081081081081084,
+                43.666666666666664
+            ],
+            "type_word": null
+        },
+        {
+            "start_frame": "161",
+            "end_frame": "162",
+            "action_type": "click",
+            "down_coordinate": [
+                71.08108108108108,
+                56.33333333333333
+            ],
+            "up_coordinate": [
+                71.08108108108108,
+                56.33333333333333
+            ],
+            "type_word": null
+        }
+    ]
+}
